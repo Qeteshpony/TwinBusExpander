@@ -76,7 +76,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|113495000|77450000|3a79e15c-f85f-47c9-8ccb-11982d6f4ed9|0cbc0424-2606-4997-ad46-968c4100986d",
+          ""
+        ],
+        [
+          "hole_clearance|113495000|77450000|a6bd3fa9-d917-4140-be8e-1563190f0dba|0cbc0424-2606-4997-ad46-968c4100986d",
+          ""
+        ],
+        [
+          "hole_clearance|113495000|83550000|27874e7a-9b00-431b-ade0-ad784637b9c1|06a1a14d-969c-434e-b89b-e03cafbf8021",
+          ""
+        ],
+        [
+          "hole_clearance|113495000|83550000|562d9d9b-7ff2-4c93-9494-d95baa6ef722|06a1a14d-969c-434e-b89b-e03cafbf8021",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -553,6 +570,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -699,7 +717,7 @@
         "uuid": "df90c09d-6965-4a0b-ae16-1649db1f90b9"
       }
     ],
-    "used_designators": "SW1-2,J1-2,D1,#PWR1-20,Q2,C1-6,R1-10,R13,#FLG1-2,U1-5",
+    "used_designators": "U5-6",
     "variants": []
   },
   "sheets": [
