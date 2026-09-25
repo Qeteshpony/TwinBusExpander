@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Qeteshpony/TwinBusExpander/compare/v1.1.0...v1.1.1) (2026-09-25)
+
+
+### Bug Fixes
+
+* minimum via size ([19418e9](https://github.com/Qeteshpony/TwinBusExpander/commit/19418e93414083f47cbac3ffd821efa599ae9465))
+
 ## [1.1.0](https://github.com/Qeteshpony/TwinBusExpander/compare/v1.0.0...v1.1.0) (2026-09-25)
 
 
