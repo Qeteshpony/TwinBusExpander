@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Qeteshpony/TwinBusExpander/compare/v1.0.0...v1.1.0) (2026-09-25)
+
+
+### Features
+
+* add edge rails ([663115f](https://github.com/Qeteshpony/TwinBusExpander/commit/663115f8c4a8d57f01fc17087f7954e541f37562))
+
 ## 1.0.0 (2026-09-25)
 
 
